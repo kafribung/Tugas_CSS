@@ -1,4 +1,4 @@
-/*Tinggal Di COPY+PASTE*/
+/*CSS Reset*/
 html,
 body,
 div,
@@ -129,6 +129,13 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+/* END CSS Reset*/
+
+
+
+
+
 
 /* My CSS */
 body {
