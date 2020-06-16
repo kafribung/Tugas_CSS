@@ -247,6 +247,7 @@ footer h5 {
 
 footer h5 a {
     color: aqua;
+    text-decoration: none;
 }
 
 footer h5 a:hover {
